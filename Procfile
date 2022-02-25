@@ -1,1 +1,1 @@
-worker: python Rating_deals.py
+worker:python Rating_deals.py
