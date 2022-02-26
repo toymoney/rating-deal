@@ -1,0 +1,1 @@
+bot: python Rating_deals.py
